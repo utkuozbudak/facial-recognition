@@ -14,4 +14,4 @@ Proposed ConvNet in the paper:
 
 Koch et. al., [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 
-[LFW  Face Databse](http://vis-www.cs.umass.edu/lfw/)
+[LFW  Face Database](http://vis-www.cs.umass.edu/lfw/)
