@@ -7,7 +7,8 @@ Simple Siamese Network:
 
 ![Simple Siamese Network](https://user-images.githubusercontent.com/56653665/233863186-ed9fee85-2dd9-4092-a1f5-8d96726ec7c2.png)
 
-Proposed ConvNet in paper:
+Proposed ConvNet in the paper:
+
 ![Proposed embedding layer in the paper](https://user-images.githubusercontent.com/56653665/233863231-1224ed9a-5f1b-4151-b19d-4a56d704af57.png)
 
 
