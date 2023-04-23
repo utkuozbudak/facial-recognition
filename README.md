@@ -4,6 +4,7 @@ The face recognition task was accomplished in this project by implementing Siame
 
 
 Simple Siamese Network:
+
 ![Simple Siamese Network](https://user-images.githubusercontent.com/56653665/233863186-ed9fee85-2dd9-4092-a1f5-8d96726ec7c2.png)
 
 Proposed ConvNet in paper:
@@ -11,4 +12,5 @@ Proposed ConvNet in paper:
 
 
 Koch et. al., [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+
 [LFW  Face Databse](http://vis-www.cs.umass.edu/lfw/)
