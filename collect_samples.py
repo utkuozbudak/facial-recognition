@@ -1,3 +1,6 @@
+### Script for collecting positive samples for training the network ###
+
+
 import cv2
 import os
 import uuid
